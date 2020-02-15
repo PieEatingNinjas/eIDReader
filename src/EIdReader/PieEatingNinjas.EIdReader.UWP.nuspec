@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PieEatingNinjas.EIdReader.UWP</id>
+    <version>1.0.0</version>
+    <title>eID reader (UWP)</title>
+    <authors>Pieter Nijs</authors>
+    <owners>Pieter Nijs</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/PieEatingNinjas/eIDReader</projectUrl>
+    <iconUrl>https://blog.pieeatingninjas.be/wp-content/uploads/2020/02/eIdNugetLogo.png</iconUrl>
+    <description>Reading Belgian eID card on UWP through the SmartCard class.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>UWP eID Belgian SmartCard</tags>
+  </metadata>
+  <files>
+    <file src="EIdReader.UWP\bin\Release\PieEatingNinjas.EIdReader.Shared.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" />
+    <file src="EIdReader.UWP\bin\Release\PieEatingNinjas.EIdReader.UWP.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.UWP.dll" />
+  </files>
+</package>
