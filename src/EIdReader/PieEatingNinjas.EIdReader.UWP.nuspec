@@ -15,7 +15,7 @@
     <tags>UWP eID Belgian SmartCard</tags>
   </metadata>
   <files>
-    <file src="EIdReader.UWP\bin\Release\PieEatingNinjas.EIdReader.Shared.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" />
-    <file src="EIdReader.UWP\bin\Release\PieEatingNinjas.EIdReader.UWP.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.UWP.dll" />
+    <file src="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" />
+    <file src="lib\uap10.0\PieEatingNinjas.EIdReader.UWP.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.UWP.dll" />
   </files>
 </package>
