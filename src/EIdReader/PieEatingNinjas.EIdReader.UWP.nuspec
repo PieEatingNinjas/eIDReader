@@ -12,7 +12,7 @@
     <description>Reading Belgian eID card on UWP through the SmartCard class.</description>
     <releaseNotes>First release</releaseNotes>
     <copyright>Copyright 2020</copyright>
-    <tags>UWP eID Belgian SmartCard</tags>
+    <tags>UWP eID Belgian SmartCard .NET</tags>
   </metadata>
   <files>
     <file src="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" target="lib\uap10.0\PieEatingNinjas.EIdReader.Shared.dll" />

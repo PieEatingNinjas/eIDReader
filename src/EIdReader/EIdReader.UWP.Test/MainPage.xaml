@@ -7,8 +7,13 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <TextBlock x:Name="FullName" />
+        <TextBlock x:Name="PlaceOfBirth" />
+        <TextBlock x:Name="DateOfBirth" />
+        <TextBlock x:Name="Gender" />
+        <TextBlock x:Name="Nationality" />
+        <TextBlock x:Name="NationalNumber" />
+        <TextBlock x:Name="Address" />
+    </StackPanel>
 </Page>
